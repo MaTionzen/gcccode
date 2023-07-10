@@ -104,6 +104,18 @@
     "xstring": "cpp",
     "xtr1common": "cpp",
     "xtree": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "any": "cpp",
+    "syncstream": "cpp",
+    "variant": "cpp",
+    "coroutine": "cpp",
+    "memory_resource": "cpp",
+    "barrier": "cpp",
+    "codecvt": "cpp",
+    "cuchar": "cpp",
+    "source_location": "cpp",
+    "latch": "cpp",
+    "numbers": "cpp",
+    "semaphore": "cpp"
   }
 }
